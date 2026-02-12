@@ -178,7 +178,8 @@ void client() {
 ```
 ## OUTPUT
 
-<img width="411" height="302" alt="image" src="https://github.com/user-attachments/assets/6f91238c-cf56-439a-bbe8-d33aa680cd4a" />
+<img width="768" height="519" alt="image" src="https://github.com/user-attachments/assets/1d8f5be3-d369-4103-9473-b34460dcd9c6" />
+
 
 
 # RESULT:
